@@ -55,6 +55,8 @@ Then:
 
     Wake word: “Alexa”
 
+<img width="651" height="908" alt="image" src="https://github.com/user-attachments/assets/246ed7f1-2437-4962-ab1f-c2c8dceefe61" />
+
 ASR converts the speech into text: “set a timer for 10 minutes”
 
 NLU identifies intent: SetTimer
